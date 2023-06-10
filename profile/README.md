@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/calcom/cal.com">
-   <img src="https://github.com/Team-Bold/.github/blob/main/logo.png?raw=true" style="width:14%" alt="Logo">
+   <img src="https://github.com/Team-Bold/.github/blob/main/logo.png?raw=true" style="width:10%" alt="Logo">
   </a>
 
   <h3 style="font-weight:700" align="center">Extrabold, Inc.</h3>
