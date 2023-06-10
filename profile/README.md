@@ -1,12 +1,23 @@
-## Hi there 👋
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/calcom/cal.com">
+   <img src="https://github.com/Team-Bold/.github/blob/main/logo.png?raw=true" style="width:14%" alt="Logo">
+  </a>
 
-<!--
+  <h3 style="font-weight:700" align="center">Extrabold, Inc.</h3>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    Development design agency empowering startups to bring their ideas to life.
+    <br />
+    <a href="https://extra-bold.kr"><strong>Learn more »</strong></a>
+    <br />
+    <br />
+    <a href="https://extra-bold.krslack">Slack</a>
+    ·
+    <a href="https://extra-bold.kr">Website</a>
+    ·
+    <a href="https://github.com/Team-Bold/extra-bold.kr/issues">Issues</a>
+    ·
+    <a href="https://extra-bold.kr/roadmap">Roadmap</a>
+  </p>
+</p>
